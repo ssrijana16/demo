@@ -1,2 +1,2 @@
 print("hello")
-print("welcom to python")
+print("welcome to python")
